@@ -9,4 +9,4 @@ group.css  .less编译版本
 2.添加oneself.css   //引用地址：https://cdn.jsdelivr.net/gh/Tan9erine/oneself/oneself.css
 3.添加oneself.js   //引用地址：https://cdn.jsdelivr.net/gh/Tan9erine/oneself/oneself.js
 4.添加group.less   //引用地址：https://cdn.jsdelivr.net/gh/Tan9erine/oneself/group.less
-4.添加group.css   //引用地址：https://cdn.jsdelivr.net/gh/Tan9erine/oneself/group.css
+5.添加group.css   //引用地址：https://cdn.jsdelivr.net/gh/Tan9erine/oneself/group.css
